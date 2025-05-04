@@ -61,6 +61,10 @@ Highlight your top projects with brief descriptions:
 > *"I love freedom."* — Vickyjay
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorjayeoba&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=radical" />
+</p>
+
 
 ### 👀 Visitor Count
 
