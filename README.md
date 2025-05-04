@@ -15,4 +15,6 @@
 $ I'm Vickyjay, a passionate full-stack dev who builds with fire and deploys with class.
 $ I code because I love freedom and creation.
 $ Always evolving — always learning.
-
+```
+###  🔥 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vickyjay&show_icons=true&theme=radical&hide=prs" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Vickyjay&theme=radical&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vickyjay&theme=react-dark" alt="Activity Graph" /> </p>
