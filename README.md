@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**victorjayeoba/victorjayeoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Yo 👋, I'm <span style="color:#00FF00;">Vickyjay</span></h1>
+<h3 align="center">Full-Stack Developer | Code Sorcerer 🧙‍♂️ | Digital Builder 💻</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=I+write+code+to+build+freedom.;Full-Stack+Wizard+%7C+React+%7C+Python+%7C+Next.js;Your+favorite+Dev+who+loves+clean+UI+and+dark+themes." alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+```bash
+> whoami
+$ I'm Vickyjay, a passionate full-stack dev who builds with fire and deploys with class.
+$ I code because I love freedom and creation.
+$ Always evolving — always learning.
+
