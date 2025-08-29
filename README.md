@@ -103,7 +103,7 @@
 
 ---
 
-<p align="center"><i>"I love freedom."</i> – Vickyjay</p>  
+<p align="center"><i>"If you are the smartest person in the room, you are in the wrong room."</i> – Vickyjay</p>  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=victorjayeoba&style=flat-square&color=00b894" />
