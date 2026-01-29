@@ -81,14 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=victorjayeoba&show_icons=true&theme=calm&hide_border=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=victorjayeoba&theme=calm&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-## 📌 Featured Projects  
-- 🔥 **[Renny-Luxe](https://github.com/victorjayeoba/renny-luxe)** – Skincare e-commerce platform with Firebase & Framer Motion.  
-- 📘 **[Merit](https://github.com/femix300/Merit)** – University helper web app built with Python.  
-- 💸 **[EasySpend](https://github.com/victorjayeoba/EasySpend)** – Budgeting tool for smarter personal finance.  
-
 ---
 
 ## 📫 Get in Touch  
