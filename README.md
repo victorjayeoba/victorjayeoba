@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm <span style="color:#00b894;">Vickyjay</span></h1>
-<h3 align="center">Full-Stack Developer | ML Explorer |Technical Writer</h3>
+<h3 align="center">Full-Stack Developer | ML Explorer | Technical Writer</h3>
 
 <p align="center">
   🚀 I build **scalable products** and explore how **intelligent systems** can solve real-world problems.  
