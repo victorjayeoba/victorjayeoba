@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on personal projects blending **full-stack dev and ML**.  
 - 🧐 Learning more about **deep learning, system design, and distributed architectures**.  
 - 👨‍💻 Most of my work is available here on GitHub.  
-- 📝 Check out my [portfolio](https://victorjayeoba.vercel.app/).  
+- 📝 Check out my [portfolio](victorjayeoba.me).  
 - 💬 Ping me about **React, Next.js, FastAPI, PyTorch, and cloud tools**.   
 - 🎉 Fun Fact: I believe _"clean UI + robust backend = happiness."_  
 
